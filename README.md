@@ -181,8 +181,6 @@ Account
 ## Support  
 **Contact Developer:**  
 Rohit Yadav  
-230873
-[rohity23@iitk.ac.in](mailto:rohity23@iitk.ac.in)  
   
 
 ---
